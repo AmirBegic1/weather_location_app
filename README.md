@@ -1,4 +1,4 @@
-# getx_vjezbanje
+# Weather app using rest api and getx
 
 A new Flutter project.
 
